@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ab5c657.css",
+    "main.js": "/static/js/main.05280089.js",
+    "static/js/787.5352c3a1.chunk.js": "/static/js/787.5352c3a1.chunk.js",
+    "static/media/lean-logo.png": "/static/media/lean-logo.706b6baa39eb53e22764.png",
+    "static/media/doctor.png": "/static/media/doctor.f7f837f75e58d379f601.png",
+    "static/media/monitor.png": "/static/media/monitor.f11ef99dd91712388664.png",
+    "static/media/flask.png": "/static/media/flask.25a78b0744e56656c48f.png",
+    "static/media/emergency.png": "/static/media/emergency.a0e9431bd1509a960422.png",
+    "index.html": "/index.html",
+    "main.1ab5c657.css.map": "/static/css/main.1ab5c657.css.map",
+    "main.05280089.js.map": "/static/js/main.05280089.js.map",
+    "787.5352c3a1.chunk.js.map": "/static/js/787.5352c3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab5c657.css",
+    "static/js/main.05280089.js"
+  ]
+}
